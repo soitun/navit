@@ -2,7 +2,7 @@ Textfile
 ========
 
 Apart from the various map formats it can read, Navit also supports its
-own textual map format. This is useful for converting some datas sources
+own textual map format. This is useful for converting some data sources
 (gpx, OSM) into something Navit can read without too much work. An
 example is given in `Other maps <Other_maps>`__
 
@@ -23,8 +23,7 @@ latitude (note order) as decimal fractions, for example:
 
 ``-33.3553 6.334``
 
-For the full list of formats see `Coordinate
-format <Coordinate_format>`__.
+For the full list of formats see :doc:`Coordinate format </user/configuration/Coordinate_format>`.
 
 If you want to have points after polylines/polygons, you have to add an
 empty line after the polys Then:
